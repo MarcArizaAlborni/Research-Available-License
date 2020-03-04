@@ -7,10 +7,10 @@
 
 
 
-### 1. WHAT IS AN IP?
+### 1. WHAT IS AN IP?:
 #### 1.1 Copyright 
- #### 1.2 IP protection
-  #### 1.3 Trade Secrets
-   #### 1.4 Trademarks
+#### 1.2 IP protection
+#### 1.3 Trade Secrets
+#### 1.4 Trademarks
 
 
