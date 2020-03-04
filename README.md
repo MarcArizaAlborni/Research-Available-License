@@ -5,6 +5,6 @@ In this repository you'll find all information related to the Available licenses
 
 You will find all information [here](https://marcarizaalborni.github.io/Research-Available-License/)
 
-If you want to see some games i've done you can see them [here](https://github.com/MarcArizaAlborni)
+If you want to see more work from me  you can see them [here](https://github.com/MarcArizaAlborni)
 
 
