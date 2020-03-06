@@ -29,6 +29,7 @@ Alimentary products such as drinks or products with ingredients that can't be fo
 
 #### 1.3 Trademarks
 Trademarks are a sort of protection for IPs, these sort of law is used for all sorts of signs, images or symbols that represent a certain procuct. Trademarks can protect many things, some examples would be (Icons such as a Pokeball and Pokemon, Letters such as an R with a star from Rockstar, brand names such as Apple, Logos like  the one from Ubisoft, stylized fonts from Coca-Cola and of course any fictional character such as Mario from Nintendo, Sonic from Sega, etc.)
+
 #### 1.4 Patents
 #### 1.5 IP protection
 
