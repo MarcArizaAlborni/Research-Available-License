@@ -31,13 +31,27 @@ Alimentary products such as drinks or products with ingredients that can't be fo
 Trademarks are a sort of protection for IPs, these sort of law is used for all sorts of signs, images or symbols that represent a certain procuct. Trademarks can protect many things, some examples would be (Icons such as a Pokeball and Pokemon, Letters such as an R with a star from Rockstar, brand names such as Apple, Logos like  the one from Ubisoft, stylized fonts from Coca-Cola and of course any fictional character such as Mario from Nintendo, Sonic from Sega, etc.)
 
 #### 1.4 Patents
+Finally patents are another type of protection for Intellectual property in which it gives its owner the legal right to exclude others from making, using, selling and importing an invention for a limited period of years, in exchange for publishing an enabling public disclosure of the invention.
+
+
 #### 1.5 IP protection
+### 2. INTELLECTUAL PROPERTY IN  VIDEOGAMES
 
-### 2.LICENSING IP 
+In videogames, protecting their intellectual property is one of the first things companies do when developing a game. This is due to the fact that videogames as a whole have many different parts to be protected from unauthorised use from people that are not allowed to.
 
-### 3.FREE USABLE LICENSES
+But IPs are more than protection laws for companies, they are also the lifeblood of the industry. IP rights are associated both with the tools used to develop games and the content included in a game. For example, copyright safeguards the creative and artistic expression that goes into the software (the code), the artwork and the sound (and music) of a game.
 
-### 4.BIBLIOGRAPHY
+Trademarks protect the names and logos associated with a game and its characters and can be used to set a company and its games apart from others in the minds of consumers; patents protect the next generation hardware (and are particularly important for hardware manufacturers) or technical solutions as well as the inventive gameplay or design elements; and trade secrets can be used to protect a company’s competitive advantage by protecting confidential business information, such as contacts or subscriber mailing list data, or an in-house development tool such as game engines, modeling tools, etc.
+
+Without the appropriate rights and licensing agreements in place, developers may find their game cannot be distributed; they may be unable to fully leverage the value of their work. What developers own is IP; what they sell (through licensing deals) is IP. In fact, all they have is IP, so they need to protect it.
+
+
+
+### 3.LICENSING IP 
+
+### 4.FREE USABLE LICENSES
+
+### 5.BIBLIOGRAPHY
 
 
 
