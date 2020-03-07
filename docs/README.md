@@ -90,11 +90,11 @@ If a developer is looking for free available licenses that offer different optio
 
 License | Latest Version | Linking|Distribution|Modification|Patent Grant|Private use|Sublicensing|TM grant|
 --- | --- | ---|-----|----|-----|-----|-----|-----|
-Academic Free License | 3.0 | Allowed|Allowed|Allowed|Yes|Yes|Allowed|No|
-Apache License | 2.0 | Allowed|Allowed|Allowed|Yes|Yes|Allowed|No|
-Creative Commons Zero| 1.0 |Public Domain|Public Domain|Public Domain|No|Public Domain|Public Domain|No|
-MIT License | 1.0 | Allowed|Allowed|Allowed|Manually |Yes|Allowed|Manually|
-European Union Public License|1.2| Copyleft | Copyleft|Copyleft|Yes|Yes|Copyleft|No|
+**Academic Free License** | 3.0 | Allowed|Allowed|Allowed|Yes|Yes|Allowed|No|
+**Apache License** | 2.0 | Allowed|Allowed|Allowed|Yes|Yes|Allowed|No|
+**Creative Commons Zero**| 1.0 |Public Domain|Public Domain|Public Domain|No|Public Domain|Public Domain|No|
+**MIT License** | 1.0 | Allowed|Allowed|Allowed|Manually |Yes|Allowed|Manually|
+**European Union Public License**|1.2| Copyleft | Copyleft|Copyleft|Yes|Yes|Copyleft|No|
 
 
 *Copyleft: The license forces software to have the same characteristics as the ones it originates from, so if someone uses a piece of software with this license, it will also have to have the same characteristics as the license from the original piece of software*. It also allowes the licensee to aply licenses that are more public than its original one, but never less. than it.
@@ -106,11 +106,11 @@ When choosing a license the licensee should also take into account that not all 
 
 License |Aproved by FSF (Free Software Foundation)| Aproved by GPL(General Public License)| Aproved by OSI
 --- | --- | ---|---|
-Academic Free License |Yes |No|Yes|
-Apache License |Yes | Yes|Yes|
-Creative Commons Zero |Yes | Yes|No Info|
-MIT License | Yes | Yes|Yes|
-European Union Public License | Yes | Yes|Yes|
+**Academic Free License** |Yes |No|Yes|
+**Apache License** |Yes | Yes|Yes|
+**Creative Commons Zero** |Yes | Yes|No Info|
+**MIT License** | Yes | Yes|Yes|
+**European Union Public License** | Yes | Yes|Yes|
 
 #### CREATIVE COMMONS
 
