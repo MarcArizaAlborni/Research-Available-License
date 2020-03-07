@@ -76,25 +76,52 @@ Some of the main necessities that developers should look for are:
 
 ### 4. FREE AVAILABLE LICENSES
 
-
+#### OPTIONS
 If a developer is looking for free available licenses that offer different options depending on what he is looking for, here are some options:
+
+- Linking: linking of the licensed code with code licensed under a different license (e.g. when the code is provided as a library)
+- Distribution: distribution of the code to third parties
+- Modification: modification of the code by a licensee
+- Patent grant: protection of licensees from patent claims made by code contributors regarding their contribution, and protection of contributors from patent claims made by licensees
+- Private use: whether modification to the code must be shared with the community or may be used privately (e.g. internal use by a corporation)
+- Sublicensing: whether modified code may be licensed under a different license (for example a copyright) or must retain the same license under which it was provided
+- TM grant: use of trademarks associated with the licensed code or its contributors by a licensee
+
 
 License | Latest Version | Linking|Distribution|Modification|Patent Grant|Private use|Sublicensing|TM grant|
 --- | --- | ---|-----|----|-----|-----|-----|-----|
-Academic Free License | --- | ---|-----|----|-----|-----|-----|-----|
-Apache License | --- | ---|-----|----|-----|-----|-----|-----|
-Creative Commons Zero| --- | ---|-----|----|-----|-----|-----|-----|
-Apple Public Source License | --- | ---|-----|----|-----|-----|-----|-----|
-Affero General Public License | --- | ---|-----|----|-----|-----|-----|-----|
-Do What The Fuck You Want To Public License | --- | ---|-----|----|-----|-----|-----|-----|
-Mozilla Public License | --- | ---|-----|----|-----|-----|-----|-----|
-GNU Affero General Public License| --- | ---|-----|----|-----|-----|-----|-----|
+Academic Free License | 3.0 | Allowed|Allowed|Allowed|Yes|Yes|Allowed|No|
+Apache License | 2.0 | Allowed|Allowed|Allowed|Yes|Yes|Allowed|No|
+Creative Commons Zero| 1.0 |Public Domain|Public Domain|Public Domain|No|Public Domain|Public Domain|No|
+MIT License | 1.0 | Allowed|Allowed|Allowed|Manually |Yes|Allowed|Manually|
+European Union Public License|1.2| Copyleft | Copyleft|Copyleft|Yes|Yes|Copyleft|No|
 
 
-### Internationally Aproved
+*Copyleft: The license forces software to have the same characteristics as the ones it originates from, so if someone uses a piece of software with this license, it will also have to have the same characteristics as the license from the original piece of software*. It also allowes the licensee to aply licenses that are more public than its original one, but never less. than it.
 
-License |Aproved by FSF| Aproved by GPL| Aproved by OSI
+
+#### INTERNATIONALLY APROVED
+When choosing a license the licensee should also take into account that not all licenses work worldwide, thats why its recommended to choose one that is approved by the majority of license organitzations
+
+
+License |Aproved by FSF (Free Software Foundation)| Aproved by GPL(General Public License)| Aproved by OSI
 --- | --- | ---|---|
+Academic Free License |Yes |No|Yes|
+Apache License |Yes | Yes|Yes|
+Creative Commons Zero |Yes | Yes|No Info|
+MIT License | Yes | Yes|Yes|
+European Union Public License | Yes | Yes|Yes|
+
+#### CREATIVE COMMONS
+
+A Creative Commons (CC) license is one of several public copyright licenses that enable the free distribution of an otherwise copyrighted "work". A CC license is used when an author wants to give other people the right to share, use, and build upon a work that they (the author) have created. CC provides an author flexibility (for example, they might choose to allow only non-commercial uses of a given work) and protects the people who use or redistribute an author's work from concerns of copyright infringement as long as they abide by the conditions that are specified in the license by which the author distributes the work.
+
+The CC licenses all grant the "baseline rights", such as the right to distribute the copyrighted work worldwide, for non-commercial purposes and without modification.The details of each of these licenses depend on the version, and comprises a selection out of four conditions:
+
+
+
+
+
 ### 5.BIBLIOGRAPHY
 
 
