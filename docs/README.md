@@ -75,6 +75,21 @@ Some of the main necessities that developers should look for are:
 
 
 ### 4. FREE AVAILABLE LICENSES
+
+If a developer is looking for free available licenses that offer different options depending on what he is looking for, here are some options:
+
+License | Latest Version | Linking|Distribution|Modification|Patent Grant|Private use|Sublicensing|TM grant|
+--- | --- | ---|-----|----|-----|-----|-----|-----|
+Academic Free License | --- | ---|-----|----|-----|-----|-----|-----|
+Apache License | --- | ---|-----|----|-----|-----|-----|-----|
+Creative Commons Zero| --- | ---|-----|----|-----|-----|-----|-----|
+Apple Public Source License | --- | ---|-----|----|-----|-----|-----|-----|
+Affero General Public License | --- | ---|-----|----|-----|-----|-----|-----|
+Do What The Fuck You Want To Public License | --- | ---|-----|----|-----|-----|-----|-----|
+Mozilla Public License | --- | ---|-----|----|-----|-----|-----|-----|
+GNU Affero General Public License| --- | ---|-----|----|-----|-----|-----|-----|
+License |Aproved by FSF| Aproved by GPL| Aproved by OSI
+--- | --- | ---|---|
 ### 5.BIBLIOGRAPHY
 
 
