@@ -45,12 +45,10 @@ Trademarks protect the names and logos associated with a game and its characters
 
 Without the appropriate rights and licensing agreements in place, developers may find their game cannot be distributed; they may be unable to fully leverage the value of their work. What developers own is IP; what they sell (through licensing deals) is IP. In fact, all they have is IP, so they need to protect it.
 
-
-
-### 3.LICENSING IP 
-
 ### 4.FREE USABLE LICENSES
 
+
+### 3.LICENSING IPs
 ### 5.BIBLIOGRAPHY
 
 
