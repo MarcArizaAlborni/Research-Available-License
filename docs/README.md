@@ -47,8 +47,11 @@ Without the appropriate rights and licensing agreements in place, developers may
 
 Type of IP | Copyright | Trademark|Trade Secret|Patent
 --- | --- | ---|-----|----|
-*Still* | `renders` | **nicely**|
-1 | 2 | 3
+**Time Span** |Around 100 years | For Ever|For Ever|20 years|
+**Cost** | Cheap | Average|Average|Expensive|
+**Obtain IP** | Easy |Medium|Medium|Hard|
+**Usefulnes** | Mandatory | Mandatory|Recommended|Not necessary|
+**Use in Videogames** | Often | Often|Often|Rarely|
 
 
 ### 4.FREE USABLE LICENSES
