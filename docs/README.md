@@ -1,11 +1,25 @@
 # AVAILABLE LICENSES & IP PROTECTION
 
-### RESEARCH PROJECT MADE BY: MARC ARIZA ALBORNI
+#### RESEARCH PROJECT MADE BY: MARC ARIZA ALBORNI
 
 
-## INDEX
+### INDEX
 
+1. What is an IP
+   * Copyright
+   * Trade Secrets
+   * Trademarks
+   * Patents
+   * IP Protection
+   
+2. Intellectual Property In Videogames
 
+3. Licensing IPs
+
+4. Free Available Licenses
+   * Options
+   * Internationally Aproved
+   * Creative Commons
 
 ### 1.WHAT IS AN IP (Intellectual Property)?
 An intellectual property is an abstract idea or concept created by someone which is used in commercial areas by its owners.
@@ -39,6 +53,8 @@ Finally patents are another type of protection for Intellectual property in whic
 
 
 #### 1.5 IP protection
+
+
 ### 2. INTELLECTUAL PROPERTY IN  VIDEOGAMES
 
 In videogames, protecting their intellectual property is one of the first things companies do when developing a game. This is due to the fact that videogames as a whole have many different parts to be protected from unauthorised use from people that are not allowed to.
@@ -119,6 +135,11 @@ A Creative Commons (CC) license is one of several public copyright licenses that
 The CC licenses all grant the "baseline rights", such as the right to distribute the copyrighted work worldwide, for non-commercial purposes and without modification.The details of each of these licenses depend on the version, and comprises a selection out of four conditions:
 
 ![alt text](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/Images/Icons_License.png "Icons CC")
+
+
+In this chart we can see possible combinations that can be made using  Creative Commons Licenses. Allowing the licensee to choose what can other people do with their work, and how much freedom they have.
+
+
 
 ![alt text](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/Images/CC_Chart.png "CC CHart")
 
