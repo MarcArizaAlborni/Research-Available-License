@@ -22,6 +22,8 @@ Songs are always seen followed by copyright so that the protected song can't be 
 
 If someone without permission wanted to use a copyrighted work, by modifying the base work enough it would be able to bypass copyright. For example by fastforwarding music or mixing two songs to distort them.
 
+When a C leter is seen next to the name of a work, or somhwere related to that work, it means that it is protected by copyright.
+
 #### 1.2 Trade Secrets
 Trade secrets are a form of Intellectual property protection ussually used by manufacturing companies of commercial products. They comprise formulas,practices,processes,designs or any information about a commercial product that have economic value because they are ussualy secret from foreign people related to the product.
 
@@ -29,6 +31,8 @@ Alimentary products such as drinks or products with ingredients that can't be fo
 
 #### 1.3 Trademarks
 Trademarks are a sort of protection for IPs, these sort of law is used for all sorts of signs, images or symbols that represent a certain procuct. Trademarks can protect many things, some examples would be (Icons such as a Pokeball and Pokemon, Letters such as an R with a star from Rockstar, brand names such as Apple, Logos like  the one from Ubisoft, stylized fonts from Coca-Cola and of course any fictional character such as Mario from Nintendo, Sonic from Sega, etc.)
+
+When a TM sign is seen next to a logo, image or symbol it means theres a trademark applied to that work.
 
 #### 1.4 Patents
 Finally patents are another type of protection for Intellectual property in which it gives its owner the legal right to exclude others from making, using, selling and importing an invention for a limited period of years, in exchange for publishing an enabling public disclosure of the invention.
@@ -45,6 +49,7 @@ Trademarks protect the names and logos associated with a game and its characters
 
 Without the appropriate rights and licensing agreements in place, developers may find their game cannot be distributed; they may be unable to fully leverage the value of their work. What developers own is IP; what they sell (through licensing deals) is IP. In fact, all they have is IP, so they need to protect it.
 
+
 Type of IP | Copyright | Trademark|Trade Secret|Patent
 --- | --- | ---|-----|----|
 **Time Span** |Around 100 years | For Ever|For Ever|20 years|
@@ -54,10 +59,22 @@ Type of IP | Copyright | Trademark|Trade Secret|Patent
 **Use in Videogames** | Often | Often|Often|Rarely|
 
 
-### 4.FREE USABLE LICENSES
-
-
 ### 3.LICENSING IPs
+
+When developing a game, license owners should carefully examine each type of license and see which one fulfills their necessities.
+
+Some of the main necessities that developers should look for are:
+
+- Who will own the license?
+- Will the game use a free license, a paid one or an original one? Who will do it?
+- How much money is available for the licensee to spend on licensing the game. Will it increase total sales, or it won't have any sort of effect on the overall amount of sales when released?
+- Which is the scope of the license? National or world-wide? Where will the game be released?
+- How much time it will take for the licensee to have the license ready? Will it be ready for release?
+- What will the license protect? Images, specific artistic styles, gameplay, logos, names, characters, map layouts, etc.
+- Does any part of the license conflict with any previous license if used?
+
+
+### 4. FREE AVAILABLE LICENSES
 ### 5.BIBLIOGRAPHY
 
 
