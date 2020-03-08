@@ -20,7 +20,7 @@
    * [Options](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#options)
    * [Internationally Aproved](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#internationally-aproved)
    * [Creative Commons](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
-   
+   * [Just Looking for which License to Choose](
 5. [Webography](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
 
 ### 1.WHAT IS AN IP (Intellectual Property)?
@@ -143,6 +143,11 @@ In this chart we can see possible combinations that can be made using  Creative 
 
 ![alt text](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/Images/CC_Chart.png "CC CHart")
 
+#### RECOMENDED LICENSES
+
+- [MIT LICENSE](https://opensource.org/licenses/MIT)
+- [APACHE LICENSE](https://www.apache.org/licenses/LICENSE-2.0)
+- [CREATIVE COMMONS](https://creativecommons.org/share-your-work/)
 
 
 ### 5.WEBOGRAPHY
