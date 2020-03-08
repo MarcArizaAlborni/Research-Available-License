@@ -10,7 +10,7 @@
    * [Trade Secrets](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#12-trade-secrets)
    * [Trademarks](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#13-trademarks)
    * [Patents](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#14-patents)
-   * [IP Protection](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#15-ip-protection)
+  
    
 2. [Intellectual Property In Videogames](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#2-intellectual-property-in--videogames)
 
@@ -53,8 +53,6 @@ When a TM sign is seen next to a logo, image or symbol it means theres a tradema
 #### 1.4 Patents
 Finally patents are another type of protection for Intellectual property in which it gives its owner the legal right to exclude others from making, using, selling and importing an invention for a limited period of years, in exchange for publishing an enabling public disclosure of the invention.
 
-
-#### 1.5 IP protection
 
 
 ### 2. INTELLECTUAL PROPERTY IN  VIDEOGAMES
