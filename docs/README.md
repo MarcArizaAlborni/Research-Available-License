@@ -20,7 +20,7 @@
    * [Options](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#options)
    * [Internationally Aproved](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#internationally-aproved)
    * [Creative Commons](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
-   * [Just Looking for which License to Choose](https://creativecommons.org/share-your-work/)
+   * [Just Looking for which License to Choose](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#recomended-licenses)
 5. [Webography](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
 
 ### 1.WHAT IS AN IP (Intellectual Property)?
