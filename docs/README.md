@@ -55,6 +55,9 @@ Finally patents are another type of protection for Intellectual property in whic
 
 
 
+
+
+
 ### 2. INTELLECTUAL PROPERTY IN  VIDEOGAMES
 
 In videogames, protecting their intellectual property is one of the first things companies do when developing a game. This is due to the fact that videogames as a whole have many different parts to be protected from unauthorised use from people that are not allowed to.
@@ -75,6 +78,8 @@ Type of IP | Copyright | Trademark|Trade Secret|Patent
 **Use in Videogames** | Often | Often|Often|Rarely|
 
 
+
+
 ### 3.LICENSING IPs
 
 When developing a game, license owners should carefully examine each type of license and see which one fulfills their necessities.
@@ -88,6 +93,8 @@ Some of the main necessities that developers should look for are:
 - How much time it will take for the licensee to have the license ready? Will it be ready for release?
 - What will the license protect? Images, specific artistic styles, gameplay, logos, names, characters, map layouts, etc.
 - Does any part of the license conflict with any previous license if used?
+
+
 
 
 ### 4. FREE AVAILABLE LICENSES
