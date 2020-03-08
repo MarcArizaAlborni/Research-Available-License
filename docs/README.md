@@ -150,7 +150,7 @@ In this chart we can see possible combinations that can be made using  Creative 
 ### 5.WEBOGRAPHY
 
 1. [Wikipedia License Comparison](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses "Wikipedia License Comparison")
-2. [Wikipedia License Comparison](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain "Wikipedia License Creative Commons")
+2. [Wikipedia License Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain "Wikipedia License Creative Commons")
 3. [Choose a License](https://choosealicense.com/licenses/ "Choose a License")
 4. [IP Length](https://www.stopfakes.gov/article?id=How-Long-Does-Patent-Trademark-or-Copyright-Protection-Last "IP Length")
 5. [Licenses in Videogames Info](https://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html "License Info")
