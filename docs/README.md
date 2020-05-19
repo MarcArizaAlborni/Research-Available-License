@@ -154,7 +154,7 @@ In this chart we can see possible combinations that can be made using  Creative 
 
 ### 5. GETTING AN ACTUAL LICENSE FOR YOUR VIDEOGAME
 
-After all this information, it may seem like getting a license for a videogame is not easy. That's why in the end if someone wanted to get a license for their videogame for comercial use the best option would be to have enough money to pay for everything that is required when licensing and getting a good lawyer that knows the procedure of licensing, specially depending in which legal framework you want your license to have.
+After all this information, it may seem like getting a license for a videogame is not easy. That's why in the end if someone wanted to get a license for their videogame for comercial use the best option would be to have enough money to pay for everything that is required when licensing and getting a good lawyer that knows the procedure of licensing, specially depending in which legal framework & characteristics  you want your license to have.
 
 #### RECOMENDED LICENSES
 
