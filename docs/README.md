@@ -21,7 +21,9 @@
    * [Internationally Aproved](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#internationally-aproved)
    * [Creative Commons](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
    * [Just Looking for which License to Choose](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#recomended-licenses)
-5. [Webography](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
+5. [Getting a License for your Videogame](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#Getting-an-actual-license-for-your-videogame)
+
+6. [Webography](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
 
 ### 1.WHAT IS AN IP (Intellectual Property)?
 An intellectual property is an abstract idea or concept created by someone which is used in commercial areas by its owners.
@@ -149,6 +151,11 @@ In this chart we can see possible combinations that can be made using  Creative 
 
 ![alt text](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/Images/CC_Chart.png "CC CHart")
 
+
+### 5. GETTING AN ACTUAL LICENSE FOR YOUR VIDEOGAME
+
+After all this information, it may seem like getting a license for a videogame is not easy. That's why in the end if someone wanted to get a license for their videogame for comercial use the best option would be to have enough money to pay for everything that is required when licensing and getting a good lawyer that knows the procedure of licensing, specially depending in which legal framework you want your license to have.
+
 #### RECOMENDED LICENSES
 
 - [MIT LICENSE](https://opensource.org/licenses/MIT)
@@ -156,7 +163,7 @@ In this chart we can see possible combinations that can be made using  Creative 
 - [CREATIVE COMMONS](https://creativecommons.org/share-your-work/)
 
 
-### 5.WEBOGRAPHY
+### 6.WEBOGRAPHY
 
 1. [Wikipedia License Comparison](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses "Wikipedia License Comparison")
 2. [Wikipedia License Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain "Wikipedia License Creative Commons")
