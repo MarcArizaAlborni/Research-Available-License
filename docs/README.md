@@ -86,22 +86,21 @@ When developing a game, license owners should carefully examine each type of lic
 
 Some of the main necessities that developers should look for are:
 
-- Who will own the license?
-- Will the game use a free license, a paid one or an original one? Who will do it?
-- How much money is available for the licensee to spend on licensing the game. Will it increase total sales, or it won't have any sort of effect on the overall amount of sales when released?
-- Which is the scope of the license? National or world-wide? Where will the game be released?
-- How much time it will take for the licensee to have the license ready? Will it be ready for release?
-- What will the license protect? Images, specific artistic styles, gameplay, logos, names, characters, map layouts, etc.
-- Does any part of the license conflict with any previous license if used?
-
-
+- Who will own the license? The owner of the license will usually be the one that creates the license and owns the rights of the product itself
+- Will the game use a free license, a paid one or an original one? This depends completly in what the owner wants to do with it, specially if it wants it to have comercial use. Take into acount that some assets or characteristics that are not owned by the licensee can force the final product to have a certain type of license.
+- How much money is available for the licensee to spend on licensing the game. Will it increase total sales, or it won't have any sort of effect on the overall amount of sales when released? Licenses are expensive, they vary in price depending on which type of license the licensor wants to use, but some of the most used types of licenses are not cheap to get.
+- Which is the scope of the license? National or world-wide? Where will the game be released? Licenses can also vary depending on which legal framework the license will be aplied in.  
+- How much time it will take for the licensee to have the license ready? Will it be ready for release? Licensing an Ip isn't necessarily slow, but depending on the type of license, the legal framework and the moment the license was create may vary the time needed.
+- What will the license protect? Images, specific artistic styles, gameplay, logos, names, characters, map layouts, etc. Anything that can be licensed should probably be licensed if theres any sort of comercial/public use.
+- Does any part of the license conflict with any previous license if used? Some licenses may not be compatible with previous licenses so have that in mind when licensing an IP
 
 
 ### 4. FREE AVAILABLE LICENSES
 
 #### OPTIONS
-If a developer is looking for free available licenses that offer different options depending on what he is looking for, here are some options:
+If a developer is looking for free available licenses that offer different alternatives depending on what he is looking for, here are some of them:
 
+##### Characteristics 
 - Linking: linking of the licensed code with code licensed under a different license (e.g. when the code is provided as a library)
 - Distribution: distribution of the code to third parties
 - Modification: modification of the code by a licensee
