@@ -142,7 +142,8 @@ A Creative Commons (CC) license is one of several public copyright licenses that
 
 The CC licenses all grant the "baseline rights", such as the right to distribute the copyrighted work worldwide, for non-commercial purposes and without modification.The details of each of these licenses depend on the version, and comprises a selection out of four conditions:
 
-![alt text](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/Images/Icons_License.png "Icons CC")
+![alt text](![CC_Chart](https://user-images.githubusercontent.com/45202074/82648234-abe03580-9c17-11ea-827b-2fb10c9e396a.png)
+ "Icons CC")
 
 
 In this chart we can see possible combinations that can be made using  Creative Commons Licenses. Allowing the licensee to choose what can other people do with their work, and how much freedom they have.
