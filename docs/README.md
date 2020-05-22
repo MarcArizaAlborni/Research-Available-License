@@ -149,7 +149,8 @@ In this chart we can see possible combinations that can be made using  Creative 
 
 
 
-![alt text](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/Images/CC_Chart.png "CC CHart")
+![CC_Chart](https://user-images.githubusercontent.com/45202074/82649116-ff06b800-9c18-11ea-97c0-3251f2b49682.png)
+
 
 
 ### 5. GETTING AN ACTUAL LICENSE FOR YOUR VIDEOGAME
