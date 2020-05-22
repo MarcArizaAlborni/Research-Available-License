@@ -5,25 +5,25 @@
 
 ### INDEX
 
-1. [What is an IP](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#1what-is-an-ip-intellectual-property)
-   * [Copyright](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#11-copyright)
-   * [Trade Secrets](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#12-trade-secrets)
-   * [Trademarks](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#13-trademarks)
-   * [Patents](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#14-patents)
+1. [What is an IP](https://marcarizaalborni.github.io/Research-Available-License/#1what-is-an-ip-intellectual-property)
+   * [Copyright](https://marcarizaalborni.github.io/Research-Available-License/#11-copyright)
+   * [Trade Secrets](https://marcarizaalborni.github.io/Research-Available-License/#12-trade-secrets)
+   * [Trademarks](https://marcarizaalborni.github.io/Research-Available-License/#13-trademarks)
+   * [Patents](https://marcarizaalborni.github.io/Research-Available-License/#14-patents)
   
    
-2. [Intellectual Property In Videogames](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#2-intellectual-property-in--videogames)
+2. [Intellectual Property In Videogames](https://marcarizaalborni.github.io/Research-Available-License/#2-intellectual-property-in--videogames)
 
-3. [Licensing IPs](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#3licensing-ips)
+3. [Licensing IPs](https://marcarizaalborni.github.io/Research-Available-License/#3licensing-ips)
 
-4. [Free Available Licenses](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#4-free-available-licenses)
-   * [Options](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#options)
-   * [Internationally Aproved](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#internationally-aproved)
-   * [Creative Commons](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
-   * [Just Looking for which License to Choose](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#recomended-licenses)
-5. [Getting a License for your Videogame](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#Getting-an-actual-license-for-your-videogame)
+4. [Free Available Licenses](https://marcarizaalborni.github.io/Research-Available-License/#4-free-available-licenses)
+   * [Options](https://marcarizaalborni.github.io/Research-Available-License/#options)
+   * [Internationally Aproved](https://marcarizaalborni.github.io/Research-Available-License/#internationally-aproved)
+   * [Creative Commons](https://marcarizaalborni.github.io/Research-Available-License/#creative-commons)
+   * [Just Looking for which License to Choose](https://marcarizaalborni.github.io/Research-Available-License/#recomended-licenses)
+5. [Getting a License for your Videogame](https://marcarizaalborni.github.io/Research-Available-License/#Getting-an-actual-license-for-your-videogame)
 
-6. [Webography](https://github.com/MarcArizaAlborni/Research-Available-License/blob/master/docs/README.md#creative-commons)
+6. [Webography](https://marcarizaalborni.github.io/Research-Available-License/#creative-commons)
 
 ### 1.WHAT IS AN IP (Intellectual Property)?
 An intellectual property is an abstract idea or concept created by someone which is used in commercial areas by its owners.
